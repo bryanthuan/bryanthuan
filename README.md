@@ -5,7 +5,8 @@
 I'm a Software Engineer at [OmniStack](https://www.omniStack.co) and co-founder at [Serepok](https://serepok.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Database, Node, PHP, Javascript, Docker, and building cool stuff.
 
 Project listing :
-Comming soon
+
+Coming soon
 
 ## About Me
 
@@ -13,4 +14,4 @@ I am passionate about new, innovative technologies. Programming video games sinc
 
 ## GitHub Stats
 
-Comming Soon
+Coming Soon
