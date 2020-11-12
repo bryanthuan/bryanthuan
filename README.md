@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, I'm Bryan Thuan, Nguyen 👋
 
-<!--
-**bryanthuan/bryanthuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Entrepreneur, Software Engineer, & IT Professional
 
-Here are some ideas to get you started:
+I'm a Software Engineer at [OmniStack](https://www.omniStack.co) and co-founder at [Serepok](https://serepok.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Database, Node, PHP, Javascript, Docker, and building cool stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Project listing :
+Comming soon
+
+## About Me
+
+I am passionate about new, innovative technologies. Programming video games since the age of 12, websites at the age of 14, and starting Tuneup Technology (an IT consulting and repair business) at 16, I have years of experience in technology. I co-founded Serepok Coworking Space (a share working space solution for business) and played a major role in the creation of Lazada (biggest ecommerce marketplace in Southest Asia) in my early 25's. I have been involved with multiple startups in both leadership and technology capacities.
+
+## GitHub Stats
+
+Comming Soon
