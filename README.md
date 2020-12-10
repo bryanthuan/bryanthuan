@@ -2,7 +2,7 @@
 
 ### Entrepreneur, Software Engineer, & IT Professional
 
-I'm a Software Engineer at [OmniStack](https://www.omniStack.co) and co-founder at [Serepok](https://serepok.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Database, Node, PHP, Javascript, Docker, and building cool stuff.
+I'm a Software Engineer at [OmniStack](https://www.omniStack.co) and co-founder at [Serepok](https://serepok.com). I'm an open source fanatic and love getting involved in the community. I'm a lover of Bash, Python, Database Science, Node, PHP, Javascript, Docker, and building cool stuff.
 
 Project listing :
 
