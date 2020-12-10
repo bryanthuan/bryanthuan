@@ -10,7 +10,7 @@ Coming soon
 
 ## About Me
 
-I am passionate about new, innovative technologies. Programming video games since the age of 12, websites at the age of 14, and starting Connegg Technology (an IT consulting and repair business) at 16, I have years of experience in technology. I co-founded Serepok Coworking Space (a share working space solution for business) and played a major role in the creation of Lazada (biggest ecommerce marketplace in Southest Asia) in my early 25's. I have been involved with multiple startups in both leadership and technology capacities.
+I am passionate about new, innovative technologies. Programming video games since the age of 18, websites at the age of 19, and starting Connegg Technology (an IT consulting and repair business) at 23, I have years of experience in technology. I co-founded Serepok Coworking Space (a share working space solution for business) and played a major role in the creation of Lazada (biggest ecommerce marketplace in Southest Asia) in my early 25's. I have been involved with multiple startups in both leadership and technology capacities.
 
 ## GitHub Stats
 
