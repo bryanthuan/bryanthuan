@@ -2,7 +2,7 @@
 
 ### Entrepreneur, Software Engineer, & IT Professional
 
-I'm a Software Engineer. I'm a lover of Bash, Python, Database Science, Node, PHP, Javascript, Docker, and building cool stuff.
+I'm a Software Engineer. I'm a lover of Bash, Python, Database Science, NodeJS, TypeScript, NestJS, React, NextJs, and building cool stuff.
 
 
 ## About Me
