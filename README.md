@@ -1,4 +1,4 @@
-# Hey, I'm Bryan Thuan, Nguyen 👋
+# Hey, I'm Bryan 👋
 
 ### Entrepreneur, Software Engineer, & IT Professional
 
