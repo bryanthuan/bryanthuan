@@ -1,6 +1,6 @@
 # Hey, I'm Bryan 👋
 
-### Entrepreneur, Software Engineer, & IT Professional
+### Entrepreneur, Engineering leadership, & IT Professional
 
 Meet Bryan, an experienced Engineer Manager with a passion for technology and leadership. With a strong background in Bash, Python, Database Science, NodeJS, TypeScript, NestJS, React, and NextJs, Bryan is a skilled engineer who knows how to build cool stuff.
 
